@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YelpAPI</string>
+    <string name="yelp_consumer_key">_bT0Nzgbv4oPemJxWl-ygQ</string>
+    <string name="yelp_consumer_secret">zbOYUHNpQ6Rihr8kGeK4lb8UDWk</string>
+    <string name="yelp_token">-M249BiQw1Kv4sx_vX57-OkEPlLzHB3P</string>
+    <string name="yelp_token_secret">cF6br-SYhheURpncWslfJinMr7I</string>
+</resources>
